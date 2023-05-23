@@ -2,8 +2,6 @@
 
 This is an example file.
 
-##Ipsum Below
+##Website Content
 
-jfdkfdsknfdsnfdsnfldnfldsfkjdskfjds
-
-More changes
+1. index.html
